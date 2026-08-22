@@ -34,7 +34,7 @@ on a server-side leaderboard.
 ### 1. Clone and configure environment
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ayush-Pathakk/Typing_speed_game.git
 cd typing-speed-game
 cp .env.example backend/.env
 ```
